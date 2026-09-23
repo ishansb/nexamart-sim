@@ -1,0 +1,329 @@
+{
+  "images_manifest_hash": "312b3d4e00a52d6737b1976a8609ed3555aad3f9665fdd50c9ae339af244510f",
+  "images": {
+    "CHOC_01": {
+      "src": "CHOC_01.svg",
+      "sha256": "7d070eeeecc6ea3b99aff49a5acba846e1563881f9a53c69d38760eae948a8d5",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:46:32.669Z"
+    },
+    "CHOC_02": {
+      "src": "CHOC_02.svg",
+      "sha256": "ef2b72ff27e0a5cc11d3a8c993771d5e41b2316961e10f68d6d20ca17a4b2ff1",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:46:40.466Z"
+    },
+    "CHOC_03": {
+      "src": "CHOC_03.svg",
+      "sha256": "88a829c32b3ff8dae3ba0bd2770ce9ba9c2e75889609e68c9a40a39967df4c73",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:46:42.924Z"
+    },
+    "CHOC_04": {
+      "src": "CHOC_04.svg",
+      "sha256": "e85c73332f092c1cd2f33016333ecf8db303e317bef220928605cc857632639f",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:46:45.339Z"
+    },
+    "CHOC_05": {
+      "src": "CHOC_05.svg",
+      "sha256": "9d995b81406d06e4991410e47e4b3abfdb04afb826b9921150c5eafe07fc8333",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:46:48.963Z"
+    },
+    "CHOC_06": {
+      "src": "CHOC_06.svg",
+      "sha256": "31a1b1077190ebd9aaddb605dd558a46ac5bb10ee4bc256031f67e08fc594606",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:46:51.956Z"
+    },
+    "CHOC_07": {
+      "src": "CHOC_07.svg",
+      "sha256": "a6feb2e2a0e3345247fafb88c56d040aed1c9c2afec24dbe10967e3dd8e7e3e6",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:46:53.915Z"
+    },
+    "CHOC_08": {
+      "src": "CHOC_08.svg",
+      "sha256": "28d9a05fe7f0168e3b474a93a6781a5ea6b73f162cf14d36fdd85ee304041944",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:46:56.846Z"
+    },
+    "CHOC_09": {
+      "src": "CHOC_09.svg",
+      "sha256": "22d6662123b8dfe2e3b721bb22e04da8849085e9a645cc3e203ce8fbaeec550f",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:46:59.095Z"
+    },
+    "CHOC_10": {
+      "src": "CHOC_10.svg",
+      "sha256": "b97b781a64a6526d5cf39d28d47e6f186c38f9f6ccb3e3e027222847ad735566",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:01.081Z"
+    },
+    "CHOC_11": {
+      "src": "CHOC_11.svg",
+      "sha256": "e9e22692ae490d162f632a0be990505962f60f013f49fc161af71c2eae11ce47",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:03.289Z"
+    },
+    "CHOC_12": {
+      "src": "CHOC_12.svg",
+      "sha256": "b3b2a79f64b22dfaae7010d04428f91d3b29cef4ec33c42b007aaf6f93f23c31",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:05.299Z"
+    },
+    "CHOC_13": {
+      "src": "CHOC_13.svg",
+      "sha256": "784707754d125971ef208857781c1836f79c4e17e9d603ecc553f6e472a8057c",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:07.338Z"
+    },
+    "CHOC_14": {
+      "src": "CHOC_14.svg",
+      "sha256": "9d4e61e607c1213642653fe35736f4df669160577a7f7ed40f589abceae97c01",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:09.849Z"
+    },
+    "CHOC_15": {
+      "src": "CHOC_15.svg",
+      "sha256": "2dfd88bd77f280c204cf5419c392a6739775f2be48e8ff71bbab9b1660413e10",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:11.915Z"
+    },
+    "CHOC_16": {
+      "src": "CHOC_16.svg",
+      "sha256": "d5298fe4851a727dfc810e53c060551195008e250bc566a57547acc0ff0112ea",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:13.717Z"
+    },
+    "CHOC_17": {
+      "src": "CHOC_17.svg",
+      "sha256": "6834cdd0a3cbc0b233b136f8c7aa4d8c774913c311437b342dd7a15402fc82d0",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:17.130Z"
+    },
+    "CHOC_18": {
+      "src": "CHOC_18.svg",
+      "sha256": "c72b931e2102f8145edaf5705a965ac91014c4b296330143d9d68409d31d7acf",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:20.255Z"
+    },
+    "SHOE_01": {
+      "src": "SHOE_01.svg",
+      "sha256": "e83e7be299e732a6f0208cc2f2bba560e9df4de387ca5a44c61f4efb31fb69c2",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:23.222Z"
+    },
+    "SHOE_02": {
+      "src": "SHOE_02.svg",
+      "sha256": "0932fa617ff29a00711d3523d3b714a2a87c973a49d7cb265888b68dac7cb5e4",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:25.784Z"
+    },
+    "SHOE_03": {
+      "src": "SHOE_03.svg",
+      "sha256": "a46f1b210ed4c38f00bfb28797fab4f10841fb1a8af337946750d6a6a064dc40",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:27.962Z"
+    },
+    "SHOE_04": {
+      "src": "SHOE_04.svg",
+      "sha256": "d43958db85af1422ca8d347b470162351f05846b57851ef5c68127da403b8adc",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:31.288Z"
+    },
+    "SHOE_05": {
+      "src": "SHOE_05.svg",
+      "sha256": "5625398d15c9cee5d8e9161d953c7b22c431fd36e309dc1ac0166c4a3af3fe74",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:33.651Z"
+    },
+    "SHOE_06": {
+      "src": "SHOE_06.svg",
+      "sha256": "57376350e0f1ed9c47c30de78aeb0a02fb56d94ab73fd035783c969a21d3753e",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:36.765Z"
+    },
+    "SHOE_07": {
+      "src": "SHOE_07.svg",
+      "sha256": "e91bd52e3e6b91eb71074d81962c5d6eeb82b513ed6b7e332ee6416a3d301878",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:38.655Z"
+    },
+    "SHOE_08": {
+      "src": "SHOE_08.svg",
+      "sha256": "8a37f65b7cf22871d407aede678d001071bf6a49bd618fd9d5c44a16eb4e4f2b",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:40.615Z"
+    },
+    "SHOE_09": {
+      "src": "SHOE_09.svg",
+      "sha256": "a670e0d2ccaf5b2db054e511a90894538741389c08857eed892f22147cc46166",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:42.540Z"
+    },
+    "SHOE_10": {
+      "src": "SHOE_10.svg",
+      "sha256": "e68d51710e4192a0e2d7d1c2c6c9ff2391378757bb5679f5d740e46cbeb2bcb8",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:44.492Z"
+    },
+    "SHOE_11": {
+      "src": "SHOE_11.svg",
+      "sha256": "a6b77ba7f16ab07fa2fe2fb258fbe736ce8e4bed61c9687ca217b6765c25652f",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:47.239Z"
+    },
+    "SHOE_12": {
+      "src": "SHOE_12.svg",
+      "sha256": "64afb40afdd6616ef1b89578cb9be1d5ade278366eec53b34c3930cbb04b88e6",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:50.757Z"
+    },
+    "SHOE_13": {
+      "src": "SHOE_13.svg",
+      "sha256": "304d3a67092b9ef13509853935a4baa14871f90d500e2cc2685966c48149959b",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:53.705Z"
+    },
+    "SHOE_14": {
+      "src": "SHOE_14.svg",
+      "sha256": "f052209c6be475dc3c67ed8f7ad2c66c77dcc2c1859d4604b3befa92de837884",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:56.183Z"
+    },
+    "SHOE_15": {
+      "src": "SHOE_15.svg",
+      "sha256": "9e0d2b3cfbae7240a53ce8877fd54065a5c095cfba3307422b0293c8dbd5a8d5",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:47:58.983Z"
+    },
+    "SHOE_16": {
+      "src": "SHOE_16.svg",
+      "sha256": "1f1b8c6b639c2540111aa4c4f35cef2acadfe8ed8bb198841cf81a6cc7b206b3",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:00.935Z"
+    },
+    "SHOE_17": {
+      "src": "SHOE_17.svg",
+      "sha256": "4f3f724ad7ac9032089b1b0abb0de4177f2bcfd0a4a93f63032312e057691919",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:03.340Z"
+    },
+    "SHOE_18": {
+      "src": "SHOE_18.svg",
+      "sha256": "424a59c96b819a4a79700f5352a26d27cf9019a14129dca32fc34eeeb14de453",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:06.543Z"
+    },
+    "PHONE_01": {
+      "src": "PHONE_01.svg",
+      "sha256": "dfeb1dbf04fe4069fb909737b8f8fd86df9dbc7a46465de0db90a4e6a9847009",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:09.099Z"
+    },
+    "PHONE_02": {
+      "src": "PHONE_02.svg",
+      "sha256": "c9d4339133e4a0b9b673f1235bc3889bdf1d34f10362222db0c328374ebe8e2e",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:11.259Z"
+    },
+    "PHONE_03": {
+      "src": "PHONE_03.svg",
+      "sha256": "d94a5c2f4f6eb71a4611b14deb8c81e83bc5b1ddf9d3baf0d78073e224a8af78",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:14.437Z"
+    },
+    "PHONE_04": {
+      "src": "PHONE_04.svg",
+      "sha256": "117d4f54c8e9dcebe249100da206cc590a8d35fded27aa03bff203d1ad13e749",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:16.272Z"
+    },
+    "PHONE_05": {
+      "src": "PHONE_05.svg",
+      "sha256": "966729eaacb0c8082c272020a1e8fab47525e08316f6cdae1d1e9f7f38f76154",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:18.288Z"
+    },
+    "PHONE_06": {
+      "src": "PHONE_06.svg",
+      "sha256": "1d256325cf505177cf3233e22fc1d0c5707ae416eb1697fd14bc60f59feb8141",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:20.394Z"
+    },
+    "PHONE_07": {
+      "src": "PHONE_07.svg",
+      "sha256": "eb0162438c7356110b9f918310839e9a30381e0532afa17d6385291279c9d123",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:22.804Z"
+    },
+    "PHONE_08": {
+      "src": "PHONE_08.svg",
+      "sha256": "1d71bac2ebd62456a20fe1bd006fc4d452d1a64b3a61fdaff0ace16b3fda27fc",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:24.892Z"
+    },
+    "PHONE_09": {
+      "src": "PHONE_09.svg",
+      "sha256": "81261ccc25cb0a920996680486b6dd489602fdb9a204f15fdd15deb55e908ccf",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:26.992Z"
+    },
+    "PHONE_10": {
+      "src": "PHONE_10.svg",
+      "sha256": "b71ad11cf188fa32940eb81c49e39eceb2dae204274856f0b9aad3b9a5e2959e",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:28.759Z"
+    },
+    "PHONE_11": {
+      "src": "PHONE_11.svg",
+      "sha256": "6f39a5459421697c4e9b9756ab29ae6a083b671caa1f43be3db23a4272a6bac6",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:31.887Z"
+    },
+    "PHONE_12": {
+      "src": "PHONE_12.svg",
+      "sha256": "dfd18d9409bf8c70c94df0c4875d332d8e3c55d3a3889dd047185237bfa48ece",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:34.763Z"
+    },
+    "PHONE_13": {
+      "src": "PHONE_13.svg",
+      "sha256": "e6153d94b23c106b64689d964c8e8f2e8ab8c295c7712ccbe3c3187af55cefd1",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:37.143Z"
+    },
+    "PHONE_14": {
+      "src": "PHONE_14.svg",
+      "sha256": "c2933faae706b3d47e4d41278d8a0d48d5ad8bead822fa73f0ee8d5a718e91a9",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:39.006Z"
+    },
+    "PHONE_15": {
+      "src": "PHONE_15.svg",
+      "sha256": "2ec08dc4df8aa6f7117ceffdf85e34ec5035f8e68b629411dbdeeb9e36cb0a55",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:42.096Z"
+    },
+    "PHONE_16": {
+      "src": "PHONE_16.svg",
+      "sha256": "baf9c3df04d5bd96d51ac8d43f312217af478f792bcc2437a7a2d3d212a7d285",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:44.729Z"
+    },
+    "PHONE_17": {
+      "src": "PHONE_17.svg",
+      "sha256": "f966e0ed0a844c06762fc91525d2651838e760114266d2d0193cd04260860e68",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:46.753Z"
+    },
+    "PHONE_18": {
+      "src": "PHONE_18.svg",
+      "sha256": "fd3800ee609bb7a5bdad97cd6846372ac8f0c20283fc8300844de6f803c25ae8",
+      "approved_by": "isb",
+      "approval_timestamp": "2026-09-23T08:48:49.043Z"
+    }
+  }
+}

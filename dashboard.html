@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NexaMart Class Results</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="mark" aria-hidden="true">N</span>NexaMart <span class="thin">class results</span></div>
+  <div class="source" id="source" aria-live="polite">Not connected</div>
+  <div class="topactions">
+    <button class="btn ghost" id="btnQR" type="button">Student QR code</button>
+    <button class="btn ghost" id="btnPresent" type="button" aria-pressed="false">Presenter view</button>
+    <button class="btn ghost" id="btnSetup" type="button">Data source</button>
+  </div>
+</header>
+
+<section class="setup" id="setup">
+  <h2>Connect to your class</h2>
+  <div class="setup-grid">
+    <label>Results server URL (Apps Script, ends in /exec)<input id="inApi" type="url" autocomplete="off" spellcheck="false"></label>
+    <label>Instructor key (from the config tab of your Sheet)<input id="inKey" type="password" autocomplete="off" spellcheck="false"></label>
+    <label>Class code<input id="inClass" list="classList" autocomplete="off" spellcheck="false"><datalist id="classList"></datalist></label>
+  </div>
+  <div class="setup-actions">
+    <button class="btn" id="btnConnect" type="button">Connect and refresh every 10 s</button>
+    <span class="or">or</span>
+    <button class="btn ghost" id="btnDemo" type="button">Rehearse with a simulated class</button>
+    <label class="btn ghost filebtn">Load a CSV export<input id="inCsv" type="file" accept=".csv,text/csv"></label>
+  </div>
+  <p class="hint" id="setupMsg"></p>
+</section>
+
+<section class="strip" id="strip" hidden>
+  <div class="tiles">
+    <div class="tile"><b id="tStarted">0</b><span>students started</span></div>
+    <div class="tile"><b id="tDone">0</b><span>finished all 3</span></div>
+    <div class="tile"><b id="tRows">0</b><span>decisions stored</span></div>
+    <div class="tile"><b id="tClient">0</b><span>offline-assigned</span></div>
+  </div>
+  <div class="cells-wrap"><table class="cells" id="cells" aria-label="Decisions per category and choice-set size"></table></div>
+</section>
+
+<section class="filters" id="filters" hidden>
+  <div class="seg" role="group" aria-label="Product category" id="fCat"></div>
+  <div class="seg" role="group" aria-label="Choice-set size" id="fSize"></div>
+  <div class="seg" role="group" aria-label="Involvement level" id="fInv"></div>
+  <label class="chk"><input type="checkbox" id="fTimeout" checked> include timed-out decisions</label>
+  <label class="chk"><input type="checkbox" id="fDefer" checked> include "skipped" decisions</label>
+  <button class="btn ghost small" id="btnExport" type="button">Download filtered rows (CSV)</button>
+</section>
+
+<main class="stage" id="stage" hidden>
+  <nav class="steps" id="steps" aria-label="Reveal sequence"></nav>
+  <article class="step" id="step" tabindex="-1"></article>
+</main>
+
+<div class="overlay" id="qrOverlay" hidden>
+  <div class="qrbox" role="dialog" aria-modal="true" aria-labelledby="qrTitle">
+    <button class="close" id="qrClose" aria-label="Close">×</button>
+    <h2 id="qrTitle">Scan to start the NexaMart exercise</h2>
+    <div id="qrImg" class="qrimg"></div>
+    <p class="url" id="qrUrl"></p>
+    <p class="hint">Class code <b id="qrCode"></b>. Students need no login.</p>
+    <a class="btn ghost small" id="qrDownload" download="nexamart-qr.png" href="#">Download QR as PNG</a>
+  </div>
+</div>
+
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script src="qr.js"></script>
+<script src="dashboard.js"></script>
+</body>
+</html>

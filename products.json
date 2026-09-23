@@ -1,0 +1,1357 @@
+{
+  "generated_note": "All brands and products are fictional. Built by tools/make_products.py.",
+  "categories": {
+    "chocolate": {
+      "involvement": "low",
+      "time_per_alternative_s": 10,
+      "set_3": [
+        "CHOC_05",
+        "CHOC_08",
+        "CHOC_12"
+      ],
+      "set_9": [
+        "CHOC_05",
+        "CHOC_08",
+        "CHOC_12",
+        "CHOC_01",
+        "CHOC_06",
+        "CHOC_11",
+        "CHOC_14",
+        "CHOC_15",
+        "CHOC_16"
+      ],
+      "set_18": [
+        "CHOC_01",
+        "CHOC_02",
+        "CHOC_03",
+        "CHOC_04",
+        "CHOC_05",
+        "CHOC_06",
+        "CHOC_07",
+        "CHOC_08",
+        "CHOC_09",
+        "CHOC_10",
+        "CHOC_11",
+        "CHOC_12",
+        "CHOC_13",
+        "CHOC_14",
+        "CHOC_15",
+        "CHOC_16",
+        "CHOC_17",
+        "CHOC_18"
+      ],
+      "balance_means": {
+        "set_3": {
+          "price_inr": 213.33,
+          "rating": 4.27
+        },
+        "set_9": {
+          "price_inr": 215.56,
+          "rating": 4.28
+        },
+        "set_18": {
+          "price_inr": 215.56,
+          "rating": 4.28
+        }
+      },
+      "dominance": {
+        "product_dominating_all_others": [],
+        "dominated_pairs": [
+          [
+            "CHOC_01",
+            "CHOC_04"
+          ],
+          [
+            "CHOC_01",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_01",
+            "CHOC_10"
+          ],
+          [
+            "CHOC_01",
+            "CHOC_11"
+          ],
+          [
+            "CHOC_01",
+            "CHOC_12"
+          ],
+          [
+            "CHOC_01",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_01",
+            "CHOC_18"
+          ],
+          [
+            "CHOC_02",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_02",
+            "CHOC_08"
+          ],
+          [
+            "CHOC_02",
+            "CHOC_09"
+          ],
+          [
+            "CHOC_02",
+            "CHOC_11"
+          ],
+          [
+            "CHOC_02",
+            "CHOC_12"
+          ],
+          [
+            "CHOC_02",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_03",
+            "CHOC_04"
+          ],
+          [
+            "CHOC_03",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_03",
+            "CHOC_10"
+          ],
+          [
+            "CHOC_03",
+            "CHOC_16"
+          ],
+          [
+            "CHOC_03",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_03",
+            "CHOC_18"
+          ],
+          [
+            "CHOC_04",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_04",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_05",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_05",
+            "CHOC_16"
+          ],
+          [
+            "CHOC_05",
+            "CHOC_18"
+          ],
+          [
+            "CHOC_07",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_07",
+            "CHOC_09"
+          ],
+          [
+            "CHOC_07",
+            "CHOC_11"
+          ],
+          [
+            "CHOC_07",
+            "CHOC_12"
+          ],
+          [
+            "CHOC_07",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_08",
+            "CHOC_09"
+          ],
+          [
+            "CHOC_08",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_10",
+            "CHOC_04"
+          ],
+          [
+            "CHOC_10",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_10",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_11",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_11",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_12",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_12",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_13",
+            "CHOC_02"
+          ],
+          [
+            "CHOC_13",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_13",
+            "CHOC_07"
+          ],
+          [
+            "CHOC_13",
+            "CHOC_08"
+          ],
+          [
+            "CHOC_13",
+            "CHOC_09"
+          ],
+          [
+            "CHOC_13",
+            "CHOC_11"
+          ],
+          [
+            "CHOC_13",
+            "CHOC_12"
+          ],
+          [
+            "CHOC_13",
+            "CHOC_15"
+          ],
+          [
+            "CHOC_13",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_14",
+            "CHOC_04"
+          ],
+          [
+            "CHOC_14",
+            "CHOC_06"
+          ],
+          [
+            "CHOC_14",
+            "CHOC_07"
+          ],
+          [
+            "CHOC_14",
+            "CHOC_08"
+          ],
+          [
+            "CHOC_14",
+            "CHOC_09"
+          ],
+          [
+            "CHOC_14",
+            "CHOC_10"
+          ],
+          [
+            "CHOC_14",
+            "CHOC_11"
+          ],
+          [
+            "CHOC_14",
+            "CHOC_12"
+          ],
+          [
+            "CHOC_14",
+            "CHOC_17"
+          ],
+          [
+            "CHOC_15",
+            "CHOC_09"
+          ],
+          [
+            "CHOC_16",
+            "CHOC_18"
+          ]
+        ]
+      },
+      "products": [
+        {
+          "product_id": "CHOC_01",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "CocoaNest",
+          "name": "Dark Almond Crunch",
+          "price_inr": 180,
+          "rating": 4.5,
+          "descriptor": "Dark chocolate with roasted almond pieces.",
+          "style": "dark",
+          "tradeoff_note": "Mid price, high rating; nut-lovers' choice",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_02",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "CocoaNest",
+          "name": "Classic Milk",
+          "price_inr": 90,
+          "rating": 4.2,
+          "descriptor": "Smooth, creamy everyday milk chocolate.",
+          "style": "milk",
+          "tradeoff_note": "Cheap, safe, familiar; unexciting",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_03",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "CocoaNest",
+          "name": "Sea Salt Caramel",
+          "price_inr": 220,
+          "rating": 4.6,
+          "descriptor": "Milk chocolate with a salted caramel centre.",
+          "style": "milk",
+          "tradeoff_note": "High rating at mid-high price",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_04",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Velvora",
+          "name": "Midnight Dark",
+          "price_inr": 260,
+          "rating": 4.4,
+          "descriptor": "Rich, bittersweet single-origin dark chocolate.",
+          "style": "dark",
+          "tradeoff_note": "Premium cue for dark-chocolate fans; bitter",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_05",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Velvora",
+          "name": "Hazelnut Praline",
+          "price_inr": 320,
+          "rating": 4.7,
+          "descriptor": "Silky praline with whole roasted hazelnuts.",
+          "style": "milk",
+          "tradeoff_note": "Top rating but among the priciest",
+          "in_set_3": true,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_06",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Velvora",
+          "name": "Raspberry Rose",
+          "price_inr": 340,
+          "rating": 4.1,
+          "descriptor": "Dark chocolate with raspberry and a hint of rose.",
+          "style": "dark",
+          "tradeoff_note": "Expensive and unusual; polarising",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_07",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Sundari Cacao",
+          "name": "Kerala Cardamom",
+          "price_inr": 150,
+          "rating": 4.3,
+          "descriptor": "Milk chocolate infused with green cardamom.",
+          "style": "milk",
+          "tradeoff_note": "Local flavour, fair price",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_08",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Sundari Cacao",
+          "name": "Coconut Jaggery",
+          "price_inr": 130,
+          "rating": 4.0,
+          "descriptor": "Coconut and jaggery in soft milk chocolate.",
+          "style": "milk",
+          "tradeoff_note": "Cheap, distinctive, lower rating",
+          "in_set_3": true,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_09",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Sundari Cacao",
+          "name": "Chilli Dark",
+          "price_inr": 170,
+          "rating": 3.9,
+          "descriptor": "Dark chocolate with a slow chilli kick.",
+          "style": "dark",
+          "tradeoff_note": "Adventurous; lowest rating",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_10",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Bean Theory",
+          "name": "Coffee Crunch",
+          "price_inr": 240,
+          "rating": 4.4,
+          "descriptor": "Dark chocolate with crunchy coffee bits.",
+          "style": "dark",
+          "tradeoff_note": "Coffee lovers; mid-high price",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_11",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Bean Theory",
+          "name": "Orange Zest",
+          "price_inr": 210,
+          "rating": 4.2,
+          "descriptor": "Dark chocolate with candied orange peel.",
+          "style": "dark",
+          "tradeoff_note": "Fruity-dark; average rating",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_12",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Bean Theory",
+          "name": "Mint Crisp",
+          "price_inr": 190,
+          "rating": 4.1,
+          "descriptor": "Cool mint crisp coated in dark chocolate.",
+          "style": "dark",
+          "tradeoff_note": "Refreshing; divisive flavour",
+          "in_set_3": true,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_13",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Koko Kraft",
+          "name": "Cookie Crumble",
+          "price_inr": 70,
+          "rating": 4.3,
+          "descriptor": "Milk chocolate packed with cookie pieces.",
+          "style": "milk",
+          "tradeoff_note": "Cheapest; good rating; mass-market feel",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_14",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Koko Kraft",
+          "name": "Fruit & Nut",
+          "price_inr": 110,
+          "rating": 4.4,
+          "descriptor": "Milk chocolate with raisins and cashews.",
+          "style": "milk",
+          "tradeoff_note": "Value classic; strong rating",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_15",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Koko Kraft",
+          "name": "White Strawberry",
+          "price_inr": 80,
+          "rating": 3.9,
+          "descriptor": "Creamy white chocolate with strawberry bits.",
+          "style": "white",
+          "tradeoff_note": "Cheap, sweet, low rating",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_16",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Malabar Moon",
+          "name": "Honey Pistachio",
+          "price_inr": 380,
+          "rating": 4.6,
+          "descriptor": "Milk chocolate with pistachio and wild honey.",
+          "style": "milk",
+          "tradeoff_note": "Gift-like premium; high rating, high price",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_17",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Malabar Moon",
+          "name": "Paan Truffle",
+          "price_inr": 290,
+          "rating": 4.0,
+          "descriptor": "Truffle bar with a sweet paan filling.",
+          "style": "filled",
+          "tradeoff_note": "Novelty; pricey for its rating",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "CHOC_18",
+          "category": "chocolate",
+          "involvement": "low",
+          "brand": "Malabar Moon",
+          "name": "Dark Sea Salt",
+          "price_inr": 450,
+          "rating": 4.5,
+          "descriptor": "Premium dark chocolate with flaky sea salt.",
+          "style": "dark",
+          "tradeoff_note": "Most expensive; luxury signal",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        }
+      ]
+    },
+    "running_shoes": {
+      "involvement": "medium",
+      "time_per_alternative_s": 10,
+      "set_3": [
+        "SHOE_05",
+        "SHOE_08",
+        "SHOE_10"
+      ],
+      "set_9": [
+        "SHOE_05",
+        "SHOE_08",
+        "SHOE_10",
+        "SHOE_01",
+        "SHOE_07",
+        "SHOE_12",
+        "SHOE_15",
+        "SHOE_16",
+        "SHOE_17"
+      ],
+      "set_18": [
+        "SHOE_01",
+        "SHOE_02",
+        "SHOE_03",
+        "SHOE_04",
+        "SHOE_05",
+        "SHOE_06",
+        "SHOE_07",
+        "SHOE_08",
+        "SHOE_09",
+        "SHOE_10",
+        "SHOE_11",
+        "SHOE_12",
+        "SHOE_13",
+        "SHOE_14",
+        "SHOE_15",
+        "SHOE_16",
+        "SHOE_17",
+        "SHOE_18"
+      ],
+      "balance_means": {
+        "set_3": {
+          "price_inr": 7332.33,
+          "cushioning_level": 3.33,
+          "weight_g": 261.67,
+          "durability_km": 616.67,
+          "rating": 4.3
+        },
+        "set_9": {
+          "price_inr": 7332.33,
+          "cushioning_level": 3.44,
+          "weight_g": 261.67,
+          "durability_km": 600,
+          "rating": 4.27
+        },
+        "set_18": {
+          "price_inr": 7332.33,
+          "cushioning_level": 3.39,
+          "weight_g": 261.11,
+          "durability_km": 597.22,
+          "rating": 4.27
+        }
+      },
+      "dominance": {
+        "product_dominating_all_others": [],
+        "dominated_pairs": []
+      },
+      "products": [
+        {
+          "product_id": "SHOE_01",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Paceline",
+          "name": "Tempo Lite",
+          "price_inr": 5999,
+          "cushioning_level": 2,
+          "cushioning": "Moderate",
+          "weight_g": 205,
+          "durability_km": 450,
+          "rating": 4.4,
+          "tradeoff_note": "Very light racer; modest cushioning; wears out early",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_02",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Paceline",
+          "name": "Cloudride",
+          "price_inr": 8999,
+          "cushioning_level": 5,
+          "cushioning": "Max cushion",
+          "weight_g": 305,
+          "durability_km": 700,
+          "rating": 4.6,
+          "tradeoff_note": "Maximum cushioning but heavy",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_03",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Paceline",
+          "name": "Daily 3",
+          "price_inr": 3999,
+          "cushioning_level": 3,
+          "cushioning": "Balanced",
+          "weight_g": 270,
+          "durability_km": 600,
+          "rating": 4.1,
+          "tradeoff_note": "Affordable all-rounder; nothing exceptional",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_04",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Kinetik",
+          "name": "Endure",
+          "price_inr": 7499,
+          "cushioning_level": 3,
+          "cushioning": "Balanced",
+          "weight_g": 295,
+          "durability_km": 900,
+          "rating": 4.3,
+          "tradeoff_note": "Most durable; heavy",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_05",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Kinetik",
+          "name": "Swift",
+          "price_inr": 10999,
+          "cushioning_level": 4,
+          "cushioning": "Soft",
+          "weight_g": 215,
+          "durability_km": 550,
+          "rating": 4.5,
+          "tradeoff_note": "Light and soft, but expensive",
+          "in_set_3": true,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_06",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Kinetik",
+          "name": "Basic Run",
+          "price_inr": 2499,
+          "cushioning_level": 2,
+          "cushioning": "Moderate",
+          "weight_g": 285,
+          "durability_km": 500,
+          "rating": 3.9,
+          "tradeoff_note": "Cheapest; firm and heavy",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_07",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Aeroglide",
+          "name": "Air 2",
+          "price_inr": 12999,
+          "cushioning_level": 5,
+          "cushioning": "Max cushion",
+          "weight_g": 240,
+          "durability_km": 650,
+          "rating": 4.7,
+          "tradeoff_note": "Soft, fairly light, top-rated; premium price",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_08",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Aeroglide",
+          "name": "Street",
+          "price_inr": 4499,
+          "cushioning_level": 3,
+          "cushioning": "Balanced",
+          "weight_g": 250,
+          "durability_km": 450,
+          "rating": 4.2,
+          "tradeoff_note": "Light-ish budget option; short lifespan",
+          "in_set_3": true,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_09",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Aeroglide",
+          "name": "Marathon Pro",
+          "price_inr": 14999,
+          "cushioning_level": 4,
+          "cushioning": "Soft",
+          "weight_g": 200,
+          "durability_km": 500,
+          "rating": 4.6,
+          "tradeoff_note": "Lightest cushioned shoe; most expensive",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_10",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Veloce",
+          "name": "Trail Grip",
+          "price_inr": 6499,
+          "cushioning_level": 3,
+          "cushioning": "Balanced",
+          "weight_g": 320,
+          "durability_km": 850,
+          "rating": 4.2,
+          "tradeoff_note": "Very durable; very heavy",
+          "in_set_3": true,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_11",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Veloce",
+          "name": "Road 5",
+          "price_inr": 5499,
+          "cushioning_level": 4,
+          "cushioning": "Soft",
+          "weight_g": 280,
+          "durability_km": 650,
+          "rating": 4.0,
+          "tradeoff_note": "Soft at mid price; lower rating",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_12",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Veloce",
+          "name": "Flex",
+          "price_inr": 3499,
+          "cushioning_level": 2,
+          "cushioning": "Moderate",
+          "weight_g": 235,
+          "durability_km": 400,
+          "rating": 4.0,
+          "tradeoff_note": "Cheap and light; least durable",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_13",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Sprintiq",
+          "name": "Bounce",
+          "price_inr": 7999,
+          "cushioning_level": 5,
+          "cushioning": "Max cushion",
+          "weight_g": 290,
+          "durability_km": 600,
+          "rating": 4.3,
+          "tradeoff_note": "Max cushion cheaper than Cloudride; heavy",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_14",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Sprintiq",
+          "name": "Feather",
+          "price_inr": 9499,
+          "cushioning_level": 1,
+          "cushioning": "Firm",
+          "weight_g": 190,
+          "durability_km": 400,
+          "rating": 4.4,
+          "tradeoff_note": "Lightest overall; firm; short life",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_15",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Sprintiq",
+          "name": "Everyday",
+          "price_inr": 2999,
+          "cushioning_level": 3,
+          "cushioning": "Balanced",
+          "weight_g": 300,
+          "durability_km": 700,
+          "rating": 3.8,
+          "tradeoff_note": "Cheap and durable; heavy, lowest rating",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_16",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Trackstar",
+          "name": "Glide",
+          "price_inr": 11499,
+          "cushioning_level": 4,
+          "cushioning": "Soft",
+          "weight_g": 260,
+          "durability_km": 800,
+          "rating": 4.5,
+          "tradeoff_note": "Soft and durable; pricey",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_17",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Trackstar",
+          "name": "Comfort Max",
+          "price_inr": 6999,
+          "cushioning_level": 5,
+          "cushioning": "Max cushion",
+          "weight_g": 330,
+          "durability_km": 550,
+          "rating": 4.1,
+          "tradeoff_note": "Max cushion at mid price; heaviest",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "SHOE_18",
+          "category": "running_shoes",
+          "involvement": "medium",
+          "brand": "Trackstar",
+          "name": "Pace",
+          "price_inr": 4999,
+          "cushioning_level": 3,
+          "cushioning": "Balanced",
+          "weight_g": 230,
+          "durability_km": 500,
+          "rating": 4.3,
+          "tradeoff_note": "Light, balanced, good value; average life",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        }
+      ]
+    },
+    "smartphones": {
+      "involvement": "high",
+      "time_per_alternative_s": 10,
+      "set_3": [
+        "PHONE_06",
+        "PHONE_13",
+        "PHONE_16"
+      ],
+      "set_9": [
+        "PHONE_06",
+        "PHONE_13",
+        "PHONE_16",
+        "PHONE_03",
+        "PHONE_08",
+        "PHONE_09",
+        "PHONE_10",
+        "PHONE_12",
+        "PHONE_18"
+      ],
+      "set_18": [
+        "PHONE_01",
+        "PHONE_02",
+        "PHONE_03",
+        "PHONE_04",
+        "PHONE_05",
+        "PHONE_06",
+        "PHONE_07",
+        "PHONE_08",
+        "PHONE_09",
+        "PHONE_10",
+        "PHONE_11",
+        "PHONE_12",
+        "PHONE_13",
+        "PHONE_14",
+        "PHONE_15",
+        "PHONE_16",
+        "PHONE_17",
+        "PHONE_18"
+      ],
+      "balance_means": {
+        "set_3": {
+          "price_inr": 28665.67,
+          "camera_tier": 3.33,
+          "battery_mah": 5133.33,
+          "processor_tier": 3.33,
+          "storage_gb": 213.33,
+          "rating": 4.3
+        },
+        "set_9": {
+          "price_inr": 32554.56,
+          "camera_tier": 3.33,
+          "battery_mah": 5077.78,
+          "processor_tier": 3.44,
+          "storage_gb": 206.22,
+          "rating": 4.29
+        },
+        "set_18": {
+          "price_inr": 33221.22,
+          "camera_tier": 3.33,
+          "battery_mah": 5122.22,
+          "processor_tier": 3.33,
+          "storage_gb": 202.67,
+          "rating": 4.29
+        }
+      },
+      "dominance": {
+        "product_dominating_all_others": [],
+        "dominated_pairs": []
+      },
+      "products": [
+        {
+          "product_id": "PHONE_01",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Voltra",
+          "name": "X9 Pro",
+          "price_inr": 74999,
+          "camera_tier": 5,
+          "camera": "200 MP triple, OIS, 3x zoom",
+          "battery_mah": 4600,
+          "processor_tier": 5,
+          "processor": "Flagship",
+          "storage_gb": 256,
+          "rating": 4.6,
+          "tradeoff_note": "Best camera + flagship chip; most expensive; modest battery",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_02",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Voltra",
+          "name": "X9",
+          "price_inr": 54999,
+          "camera_tier": 4,
+          "camera": "64 MP triple, OIS",
+          "battery_mah": 4800,
+          "processor_tier": 5,
+          "processor": "Flagship",
+          "storage_gb": 128,
+          "rating": 4.5,
+          "tradeoff_note": "Flagship chip; low storage for the price",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_03",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Voltra",
+          "name": "Neo",
+          "price_inr": 15999,
+          "camera_tier": 2,
+          "camera": "50 MP dual",
+          "battery_mah": 6000,
+          "processor_tier": 2,
+          "processor": "Everyday",
+          "storage_gb": 128,
+          "rating": 4.2,
+          "tradeoff_note": "Big battery, budget; weak camera",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_04",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Nimbus",
+          "name": "Snap 50",
+          "price_inr": 29999,
+          "camera_tier": 5,
+          "camera": "200 MP triple, OIS, 3x zoom",
+          "battery_mah": 4500,
+          "processor_tier": 3,
+          "processor": "Fast",
+          "storage_gb": 128,
+          "rating": 4.4,
+          "tradeoff_note": "Top camera at mid price; average chip and battery",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_05",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Nimbus",
+          "name": "Power M",
+          "price_inr": 12999,
+          "camera_tier": 2,
+          "camera": "50 MP dual",
+          "battery_mah": 7000,
+          "processor_tier": 2,
+          "processor": "Everyday",
+          "storage_gb": 64,
+          "rating": 4.1,
+          "tradeoff_note": "Biggest battery; low storage",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_06",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Nimbus",
+          "name": "Air",
+          "price_inr": 39999,
+          "camera_tier": 4,
+          "camera": "64 MP triple, OIS",
+          "battery_mah": 4200,
+          "processor_tier": 4,
+          "processor": "Very fast",
+          "storage_gb": 256,
+          "rating": 4.3,
+          "tradeoff_note": "Slim all-rounder; small battery",
+          "in_set_3": true,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_07",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Orbix",
+          "name": "One",
+          "price_inr": 9999,
+          "camera_tier": 1,
+          "camera": "13 MP dual",
+          "battery_mah": 5000,
+          "processor_tier": 1,
+          "processor": "Entry",
+          "storage_gb": 64,
+          "rating": 3.9,
+          "tradeoff_note": "Cheapest; basic everything",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_08",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Orbix",
+          "name": "Turbo",
+          "price_inr": 27999,
+          "camera_tier": 3,
+          "camera": "50 MP triple",
+          "battery_mah": 5000,
+          "processor_tier": 5,
+          "processor": "Flagship",
+          "storage_gb": 128,
+          "rating": 4.4,
+          "tradeoff_note": "Flagship chip at mid price; average camera",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_09",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Orbix",
+          "name": "Max 512",
+          "price_inr": 44999,
+          "camera_tier": 3,
+          "camera": "50 MP triple",
+          "battery_mah": 5500,
+          "processor_tier": 4,
+          "processor": "Very fast",
+          "storage_gb": 512,
+          "rating": 4.3,
+          "tradeoff_note": "Huge storage; camera only average",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_10",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Zenfi",
+          "name": "Lens Ultra",
+          "price_inr": 64999,
+          "camera_tier": 5,
+          "camera": "200 MP triple, OIS, 3x zoom",
+          "battery_mah": 5000,
+          "processor_tier": 4,
+          "processor": "Very fast",
+          "storage_gb": 256,
+          "rating": 4.5,
+          "tradeoff_note": "Camera-first premium; not the fastest",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_11",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Zenfi",
+          "name": "Balance",
+          "price_inr": 22999,
+          "camera_tier": 3,
+          "camera": "50 MP triple",
+          "battery_mah": 5200,
+          "processor_tier": 3,
+          "processor": "Fast",
+          "storage_gb": 256,
+          "rating": 4.3,
+          "tradeoff_note": "Balanced value; no standout feature",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_12",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Zenfi",
+          "name": "Mini",
+          "price_inr": 34999,
+          "camera_tier": 4,
+          "camera": "64 MP triple, OIS",
+          "battery_mah": 3800,
+          "processor_tier": 4,
+          "processor": "Very fast",
+          "storage_gb": 128,
+          "rating": 4.2,
+          "tradeoff_note": "Compact; smallest battery",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_13",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Kairo",
+          "name": "Endurance",
+          "price_inr": 19999,
+          "camera_tier": 2,
+          "camera": "50 MP dual",
+          "battery_mah": 6500,
+          "processor_tier": 3,
+          "processor": "Fast",
+          "storage_gb": 128,
+          "rating": 4.4,
+          "tradeoff_note": "Long battery, decent chip; weak camera",
+          "in_set_3": true,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_14",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Kairo",
+          "name": "Gamer X",
+          "price_inr": 36999,
+          "camera_tier": 3,
+          "camera": "50 MP triple",
+          "battery_mah": 6000,
+          "processor_tier": 5,
+          "processor": "Flagship",
+          "storage_gb": 256,
+          "rating": 4.5,
+          "tradeoff_note": "Gaming power + battery; average camera",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_15",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Kairo",
+          "name": "Lite",
+          "price_inr": 11999,
+          "camera_tier": 2,
+          "camera": "50 MP dual",
+          "battery_mah": 5000,
+          "processor_tier": 1,
+          "processor": "Entry",
+          "storage_gb": 128,
+          "rating": 4.0,
+          "tradeoff_note": "Cheap with good storage; slow chip",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_16",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Lumio",
+          "name": "Vista",
+          "price_inr": 25999,
+          "camera_tier": 4,
+          "camera": "64 MP triple, OIS",
+          "battery_mah": 4700,
+          "processor_tier": 3,
+          "processor": "Fast",
+          "storage_gb": 256,
+          "rating": 4.2,
+          "tradeoff_note": "Good camera + storage at mid price; average chip",
+          "in_set_3": true,
+          "in_set_9": true,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_17",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Lumio",
+          "name": "Studio",
+          "price_inr": 49999,
+          "camera_tier": 5,
+          "camera": "200 MP triple, OIS, 3x zoom",
+          "battery_mah": 4400,
+          "processor_tier": 4,
+          "processor": "Very fast",
+          "storage_gb": 512,
+          "rating": 4.4,
+          "tradeoff_note": "Top camera + max storage; smaller battery",
+          "in_set_3": false,
+          "in_set_9": false,
+          "in_set_18": true
+        },
+        {
+          "product_id": "PHONE_18",
+          "category": "smartphones",
+          "involvement": "high",
+          "brand": "Lumio",
+          "name": "Go",
+          "price_inr": 17999,
+          "camera_tier": 3,
+          "camera": "50 MP triple",
+          "battery_mah": 5000,
+          "processor_tier": 2,
+          "processor": "Everyday",
+          "storage_gb": 64,
+          "rating": 4.1,
+          "tradeoff_note": "Budget with decent camera; low storage, slow chip",
+          "in_set_3": false,
+          "in_set_9": true,
+          "in_set_18": true
+        }
+      ]
+    }
+  }
+}
